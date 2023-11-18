@@ -1,6 +1,6 @@
 # LDO Arbitrage Bot Documentation
 
-Date: 17/11/2023
+Date: 18/11/2023
 Authors: Joshua Cohen-Dumani and Kelyan Hangard
 # Overview
 
@@ -35,7 +35,7 @@ The application's codebase is structured into various modules, each with a speci
 - Cargo package manager
 
 ## Installation
-1. Clone the repository in your desired folder: **git clone git@github.com:j0shcd/rust_arbitrage_bot.git**
+1. Clone the repository in your desired folder (can take a couple minutes): **git clone git@github.com:j0shcd/rust_arbitrage_bot.git**
 2. Navigate to the project directory: **cd rust_arbitrage_bot**
 3. Build the project using Cargo: **cargo build**
 
