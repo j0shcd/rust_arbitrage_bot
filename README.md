@@ -36,7 +36,7 @@ The application's codebase is structured into various modules, each with a speci
 
 ## Installation
 1. Clone the repository in your desired folder: **git clone git@github.com:j0shcd/rust_arbitrage_bot.git**
-2. Navigate to the project directory: **cd BSA_arbitrage_bot**
+2. Navigate to the project directory: **cd rust_arbitrage_bot**
 3. Build the project using Cargo: **cargo build**
 
 # Usage
