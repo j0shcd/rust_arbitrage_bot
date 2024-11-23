@@ -1,1 +1,6 @@
 historic_arbitrage.csv
+*.d
+*.o
+*.lock
+*.json
+**/debug/
